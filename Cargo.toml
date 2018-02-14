@@ -1,0 +1,7 @@
+[package]
+name = "lock-order"
+version = "0.1.0"
+authors = ["debris <marek.kotewicz@gmail.com>"]
+
+[dependencies]
+#parking_lot = "0.5"
